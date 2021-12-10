@@ -28,3 +28,5 @@ def asal_sayılar( ):
 
 asal_sayılar()
 
+
+
